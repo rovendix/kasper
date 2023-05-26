@@ -466,6 +466,7 @@ a:hover {
   flex-wrap: wrap;
   height: 40vh;
   width: 100%;
+  padding: 15px;
   text-align: center;
   background-color: var(--fadeColor);
   color: white;
@@ -998,7 +999,6 @@ a:hover {
   .contact .right-box {
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
     flex-wrap: wrap;
     text-align: center;
     gap: 20px;
