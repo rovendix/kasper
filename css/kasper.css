@@ -154,11 +154,11 @@ a:hover {
   position: absolute;
   content: "";
   height: 2px;
-  width: calc(100% - 20px);
+  width: 100%;
   background-color: var(--hoverColor);
   left: 50%;
   transform: translateX(-50%);
-  bottom: -24.03px;
+  bottom: -26px;
 }
 
 .home i {
